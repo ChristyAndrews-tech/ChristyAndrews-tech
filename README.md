@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Christy Andrews 👋
 
-<!--
-**ChristyAndrews-tech/ChristyAndrews-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entry-level Data Analyst** with a B.Tech in Mechanical Engineering. I turn raw, messy data into clear business decisions.
 
-Here are some ideas to get you started:
+I'm looking for **Data Analyst, Business Intelligence, and Product Analytics roles**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Toolkit
+- **Languages:** SQL, Python (Pandas, NumPy), R
+- **BI & Visualization:** Tableau, Power BI (DAX, Power Query ETL)
+- **Other:** Excel, data cleaning, KPI reporting
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/christyandrews-15a7552b4) · [Email](mailto:chrisandry02@gmail.com)
