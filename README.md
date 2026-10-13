@@ -10,4 +10,4 @@ I'm looking for **Data Analyst, Business Intelligence, and Product Analytics rol
 - **Other:** Excel, data cleaning, KPI reporting
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/christyandrews-15a7552b4) · [Email](mailto:chrisandry02@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/christy-andrews-15a7552b4) · [Email](mailto:chrisandry02@gmail.com)
